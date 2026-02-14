@@ -2,18 +2,6 @@
 
 A web-based expense tracking application built with Java technologies to help users manage their personal finances efficiently.
 
-## 📋 Table of Contents
-- [About](#about)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Prerequisites](#prerequisites)
-- [Installation & Setup](#installation--setup)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## 🎯 About
 
 Expense Tracker is a comprehensive web application designed for managing daily expenses. Users can register, log in, and track their spending across different categories with an intuitive dashboard that provides visual insights into their financial habits.
@@ -192,11 +180,6 @@ expense-tracker/
 └── README.md                   # Project documentation
 ```
 
-## 🖼 Screenshots
-
-<!-- Add screenshots here once available -->
-*Coming soon...*
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please follow these steps:
@@ -207,16 +190,11 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/YourFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 👨‍💻 Author
 
 **Ajinkya Wagh**
 - GitHub: [@Ajinkyawagh4846](https://github.com/Ajinkyawagh4846)
 
-## 📧 Contact
 
 For any queries or suggestions, feel free to reach out!
 
