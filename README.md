@@ -195,9 +195,6 @@ Contributions are welcome! Please follow these steps:
 **Ajinkya Wagh**
 - GitHub: [@Ajinkyawagh4846](https://github.com/Ajinkyawagh4846)
 
-
-For any queries or suggestions, feel free to reach out!
-
 ---
 
 ⭐ **If you found this project helpful, please consider giving it a star!** ⭐
